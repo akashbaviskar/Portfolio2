@@ -7,7 +7,7 @@ import btnImg from "../../assets/hireme.png"
 
 function Intro() {
   const OpenResume = ()=>{
-    const resumeURL =  process.env.PUBLIC_URL + '/Akash resume.pdf'
+    const resumeURL =  process.env.PUBLIC_URL + '/Akash Resume.pdf'
     window.open(resumeURL, '_blank')
   }
   return (
