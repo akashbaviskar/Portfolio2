@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/akashbaviskar_portfolio/static/css/main.6c18e28e.css",
+    "main.js": "/akashbaviskar_portfolio/static/js/main.ac71090e.js",
+    "static/media/jarvis.png": "/akashbaviskar_portfolio/static/media/jarvis.abd943cb8aa31c215e93.png",
+    "static/media/profile.jpg": "/akashbaviskar_portfolio/static/media/profile.4da9ec536bacc65a0593.jpg",
+    "static/media/ReactPortfolio.png": "/akashbaviskar_portfolio/static/media/ReactPortfolio.edc98def7aa23218b2b6.png",
+    "static/media/Packify.webp": "/akashbaviskar_portfolio/static/media/Packify.e57d65e1124969d3248a.webp",
+    "static/media/leadership.png": "/akashbaviskar_portfolio/static/media/leadership.66f6ba0be14793e44eb0.png",
+    "static/media/cppSTL.png": "/akashbaviskar_portfolio/static/media/cppSTL.018a61eea4293d663d58.png",
+    "static/media/ui-design.png": "/akashbaviskar_portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/akashbaviskar_portfolio/index.html",
+    "main.6c18e28e.css.map": "/akashbaviskar_portfolio/static/css/main.6c18e28e.css.map",
+    "main.ac71090e.js.map": "/akashbaviskar_portfolio/static/js/main.ac71090e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c18e28e.css",
+    "static/js/main.ac71090e.js"
+  ]
+}
